@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EcoTrack Calculator</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="container">
+
+    <h1>🌍 Carbon Calculator</h1>
+    <button onclick="toggleDarkMode()">
+🌙 Dark Mode
+</button>
+    <div class="card">
+    <h3>SDG 13 - Climate Action 🌍</h3>
+    <p>
+        Calculate your carbon footprint and learn how
+        your daily activities affect the environment.
+    </p>
+</div>
+
+    <label>Bike Distance (KM)</label><br>
+    <input type="number" id="bike" placeholder="Enter Bike KM"><br><br>
+
+    <label>Car Distance (KM)</label><br>
+    <input type="number" id="car" placeholder="Enter Car KM"><br><br>
+
+    <label>Electricity Units</label><br>
+    <input type="number" id="electricity" placeholder="Enter Electricity Units"><br><br>
+
+    <button onclick="calculate()">
+        Calculate
+    </button>
+
+    <div class="card">
+    <h3>Total Carbon Footprint</h3>
+    <h2 id="dashboardTotal">0 kg CO₂</h2>
+</div>
+
+    <h2 id="result"></h2>
+
+    <div id="tips"></div>
+    <div class="card">
+    <h3>Previous Calculations</h3>
+    <div id="history"></div>
+</div>
+    
+</div>
+
+<footer>
+
+Made by Aarti Prajapati
+| SDG 13 Climate Action Project
+
+</footer>
+
+<script src="script.js"></script>
+
+</body>
+</html>
