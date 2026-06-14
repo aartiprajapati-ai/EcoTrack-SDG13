@@ -1,20 +1,24 @@
-# EcoTrack-SDG13
-SDG 13 Climate Action Project - Carbon Footprint Calculator using HTML, CSS and JavaScript.
-EcoTrack - Carbon Footprint Calculator
+# 🌍 EcoTrack - Carbon Footprint Calculator
 
-SDG Goal
+## 🎯 SDG Goal
 
-SDG 13: Climate Action
+**SDG 13: Climate Action**
 
-Problem Statement
+---
+
+## 📌 Problem Statement
 
 Many people are unaware of the environmental impact of their daily activities such as transportation and electricity consumption.
 
-Solution
+---
+
+## 💡 Solution
 
 EcoTrack is a web application that calculates a user's carbon footprint and provides eco-friendly suggestions to reduce emissions.
 
-Features
+---
+
+## ✨ Features
 
 - Carbon Footprint Calculator
 - Carbon Level Detection
@@ -24,16 +28,28 @@ Features
 - Dashboard
 - SDG 13 Awareness Section
 
-Technologies Used
+---
+
+## 🛠️ Technologies Used
 
 - HTML
 - CSS
 - JavaScript
 - Local Storage
 
-Future Scope
+---
+
+## 🚀 Future Scope
 
 - Graphical Dashboard
 - User Accounts
 - Carbon Reduction Goals
 - AI-based Recommendations
+
+---
+
+## 👨‍💻 Developed By
+
+**Aarti Prajapati**  
+B.Tech CSE (AI & ML)  
+IIMT University
