@@ -170,7 +170,7 @@ EcoTrack-SDG13
 
 ---
 
-# 👨‍💻 Developed By
+# 👩🏻‍💻 Developed By
 
 ### Aarti Prajapati
 
